@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145086425427",
+    "project_id": "make-it-so-android-d7421",
+    "storage_bucket": "make-it-so-android-d7421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145086425427:android:9198847532fe73c731d9a6",
+        "android_client_info": {
+          "package_name": "com.company.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcStdCf70u4NXQ4NmjEzZ36w7DAT1nufY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145086425427:android:69c5167bff057c4e31d9a6",
+        "android_client_info": {
+          "package_name": "com.example.anothernoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcStdCf70u4NXQ4NmjEzZ36w7DAT1nufY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

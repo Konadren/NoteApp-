@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnotherNoteApp</string>
+    <string name="title">Заголовок</string>
+    <string name="date">Дата</string>
+    <string name="color">Цвет</string>
+    <string name="ascending">По возрастанию</string>
+    <string name="descending">По убыванию</string>
+    <string name="your_note">Ваши заметки</string>
+    <string name="note_deleted">Заметка удалена</string>
+    <string name="hint_title">Введите заголовок…</string>
+    <string name="hint_content">Введите описание…</string>
+    <string name="undo">Вернуть</string>
+</resources>
